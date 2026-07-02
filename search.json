@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Expository Notes & Book Solutions",
+    "section": "",
+    "text": "Welcome! This space maps out rigorous, complete solution sets for advanced algebraic geometry and commutative algebra texts."
+  },
+  {
+    "objectID": "index.html#current-focus-areas",
+    "href": "index.html#current-focus-areas",
+    "title": "Expository Notes & Book Solutions",
+    "section": "Current Focus Areas",
+    "text": "Current Focus Areas\n\nSchemes, Morphisms, and Cohomology (Hartshorne)\nCommutative Ring Theory (Matsumura)"
+  },
+  {
+    "objectID": "hartshorne.html",
+    "href": "hartshorne.html",
+    "title": "Hartshorne: Algebraic Geometry",
+    "section": "",
+    "text": "Let \\(Y\\) be the affine variety given by the zero locus…\n\\[\\Gamma(Y, \\O_Y) \\cong k[x,y]/(y-x^2)\\]\nProof goes here."
+  },
+  {
+    "objectID": "hartshorne.html#chapter-1-algebraic-varieties",
+    "href": "hartshorne.html#chapter-1-algebraic-varieties",
+    "title": "Hartshorne: Algebraic Geometry",
+    "section": "",
+    "text": "Let \\(Y\\) be the affine variety given by the zero locus…\n\\[\\Gamma(Y, \\O_Y) \\cong k[x,y]/(y-x^2)\\]\nProof goes here."
+  }
+]
